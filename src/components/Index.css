@@ -1,0 +1,24 @@
+.nav-right{
+    float: right;
+}
+.nas{
+    background-color:rgb(165, 201, 202) ;
+}
+#firstcont{
+    width: device-width;
+/* background: rgb(73, 69, 69) url("C:\Users\Ananya Perwala\OneDrive\Desktop\project school\webpages\cards\job search.jpg"); */
+background-color: rgb(242, 242, 242);
+margin: 0 auto; 
+height: 1000px;
+float: left;
+text-align: center;
+border-radius: 5px;
+/* border: solid; */
+float: left;
+font-size: 20px;
+}
+.txt{
+    margin-right:auto;
+    margin-left:auto;
+    text-align:center;
+}

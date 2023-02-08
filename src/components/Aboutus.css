@@ -1,0 +1,23 @@
+.nas{
+    background-color:rgb(165, 201, 202) ;
+}
+#firstcont{
+    width: 100%;
+background: rgb(242, 242, 242);
+margin: 0 auto; 
+height: 500px;
+float: left;
+text-align: center;
+border-radius: 5px;
+/* border: solid; */
+float: left;
+font-size: 20px;
+}
+/* #car{
+  height:1000px;
+  width:1200px;
+} */
+.carousel-inner > .item >img{
+  width:400px;
+  height:100px;
+}
